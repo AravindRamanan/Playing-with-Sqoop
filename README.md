@@ -1,0 +1,1 @@
+# sqoop-from-mysql-to-hive-and-hbase
